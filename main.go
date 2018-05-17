@@ -9,7 +9,7 @@ import (
 const (
 	REGRAS = `Regras:
   - Se comunicar com respeito e consideração aos outros usuários.
-	- Compartilhar conteúdo protegido por leis de direitos autorais.
+  - Não compartilhar conteúdo protegido por leis de direitos autorais.
   - Não enviar nudes.
   - Nao enviar porno.
   - Não me invocar de 1 em 1 minuto.
